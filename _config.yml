@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kevin Nathan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Product Manager"
+  location         : "Philadelphia "
+  email            : "kevin.max.nathan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kevin.max.nathan@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kevnat.github.io/me/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://kevnat.github.io/me/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kevnat/"
@@ -116,20 +116,15 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kevnat/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kevnat/"
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   # url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
-    #   # url:
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kevin.max.nathan@gmail.com"
+ 
 
 
 # Reading Files
