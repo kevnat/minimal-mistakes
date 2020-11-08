@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: https://kevnat.github.io/me/
+  - title: "About"
+    url: https://kevnat.github.io/me/about-me/
+  - title: "Resume"
+    url: https://kevnat.github.io/me/resume/
