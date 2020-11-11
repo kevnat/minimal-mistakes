@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -96,7 +96,7 @@ author:
   name             : "Kevin Nathan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Product Manager"
-  location         : "Philadelphia "
+  location         : "Philadelphia"
   email            : "kevin.max.nathan@gmail.com"
   links:
     - label: "Email"
@@ -105,25 +105,27 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://kevnat.github.io/me/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kevnat/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kevnat/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kevnat/"
+    
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kevin.max.nathan@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kevnat/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kevnat/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kevin.max.nathan@gmail.com"
+  
  
 
 
